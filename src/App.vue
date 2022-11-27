@@ -1,10 +1,10 @@
+<script setup>
+import DevGeek from '@/components/DevGeek.vue'
+</script>
 <template>
   <v-app>
     <v-main>
-      <h1>Hello world</h1>
-      <RouterLink to="/">Home</RouterLink>
-      <RouterLink to="/about">About</RouterLink>
-      <RouterView></RouterView>
+      <DevGeek></DevGeek>
     </v-main>
   </v-app>
 </template>
