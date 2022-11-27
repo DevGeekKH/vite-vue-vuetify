@@ -1,0 +1,30 @@
+{
+  "name": "front-end",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "roboto-fontface": "*",
+    "vue": "^3.2.38",
+    "vuetify": "^3.0.0",
+    "webfontloader": "^1.0.0",
+    "@vueuse/core": "^9.6.0",
+    "vue-router": "^4.1.5",
+    "axios": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12",
+    "vite": "^3.1.9",
+    "eslint": "^8.27.0",
+    "prettier": "2.7.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.7.0",
+    "vite-plugin-eslint": "^1.8.1"
+  }
+}
