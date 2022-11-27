@@ -1,4 +1,4 @@
-# default
+# DevGeek Starter Vite Vue and Vuetify
 
 ## Project setup
 
